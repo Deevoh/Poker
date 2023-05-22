@@ -116,9 +116,6 @@ def calculate_score(hand):
     return 0
 
 def play_round(balance, game_over):
-    # if balance <= 0:
-    #     print("Game Over! Your balance is zero.")
-    #     return
     while True:
         print(f"\nBank: ${int(balance)}")
         bet = input("Enter your bet amount: $")
