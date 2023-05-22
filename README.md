@@ -5,6 +5,4 @@ Keeping in theme with casino games, I've created a poker game with scoring and b
 
 ## **To Do**
 
-- Check for invalid inputs.
-- Add ASCII cards?
 - Possibly expand this with other casino betting games into an all-encompassing program with persistent betting across all?
